@@ -22,6 +22,8 @@ The research paper "Automobile Industries using Data Mining and Predictive Analy
 -   **Data Mining Algorithms:** The framework utilizes various algorithms, including classification, regression, and association, to support decision-making in the automobile industry[cite: 107, 117].
 -   **Benefits of Predictive Analytics:** The research emphasizes that PdAM helps in early awareness of machine health, preventing damage, reducing downtime, improving safety, understanding failure causes, and increasing productivity and revenue[cite: 113, 114, 115, 116, 117, 118, 119, 125, 23, 24].
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Python Implementation: Predicting Car Engine Failure
 
 The Python implementation (`PdAM.ipynb`) demonstrates a simplified version of the PdAM framework, focusing on predicting engine failure from sensor data.
