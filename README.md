@@ -8,6 +8,7 @@ The research paper "Automobile Industries using Data Mining and Predictive Analy
 
 ![Screenshot 2025-05-13 210958](https://github.com/user-attachments/assets/ff708992-7a2c-4eff-98d1-89460c324a87)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Key Concepts from the Research Paper
 
