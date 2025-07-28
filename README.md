@@ -88,7 +88,7 @@ This project aligns with the research paper by:
 
 ## Further Development
 
-This project can be extended by:
+
 
 -   Implementing other algorithms (classification, etc.) as suggested in the research paper[cite: 112, 3].
 -   Incorporating more phases of the PdAM framework, such as data collection strategies and more advanced model evaluation[cite: 110, 112].
